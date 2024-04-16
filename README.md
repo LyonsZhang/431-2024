@@ -1,2 +1,3 @@
-# 431-2024
-Main website repository for PQHS/CRSP/MPHP 431 with Dr. Liangliang Zhang at Case Western Reserve University
+# 431-2023
+
+Main Page for 431 (section 100) in Fall 2023 with Dr. Love

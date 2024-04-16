@@ -1,0 +1,34 @@
+---
+title: "431 Contact Us"
+date: last-modified
+---
+
+## Before class begins on 2023-08-29
+
+If you have any questions before class begins, contact Professor Love at `thomas dot love at case dot edu`.
+
+## Once The Class Begins
+
+If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:
+
+1. Use our [Campuswire](campuswire.qmd) discussion board to ask (and answer) questions about the course. This is available 24 hours a day, 7 days a week. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Campuswise. Sign up for Campuswire at the [link provided here](campuswire.qmd).
+
+2. Attend TA office hours to get one-on-one help or share a computer problem.
+
+TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-05** and will continue through Monday 2023-12-11. They will be held at the following times.
+
+MON | TUE | WED | THU | FRI | SAT | SUN
+:------: | :------: | :------: | :------: | :------: | :------: | :------: 
+11:40 am <br /> to <br /> 12:40 pm | 5:30 pm <br /> to <br /> 6:30 pm | 11:40 am <br /> to <br /> 12:40 pm | 7:00 pm <br /> to <br /> 8:30 pm | 12:40 pm <br /> to <br /> 2:10 pm | 10:30 am <br /> to <br /> 12 noon | 7:00 pm <br /> to <br /> 8:30 pm
+5:00 pm <br /> to <br /> 6:30 pm | - | 7:30 pm <br /> to <br /> 8:30 pm | - | - | 7:00 pm <br /> to <br /> 8:30 pm  | 9:00 pm <br /> to <br /> 10:30 pm
+7:00 pm <br /> to <br /> 8:30 pm | - | - | - | - | - | -
+
+Our Shared Google Drive (431 Fall 2023 Dr Love and Students) holds [Zoom](https://cwru.zoom.us/) links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+
+- Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
+- Office hours are canceled on 2023-10-23 and 2023-10-24 (Fall Break) and from 2023-11-19 through 2023-11-25 (Thanksgiving)
+
+- More information on each of the TAs this semester is found in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2023/08_teachingassistants.html).
+
+
+3. Email Professor Love at `Thomas dot Love` at `case dot edu` with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting.

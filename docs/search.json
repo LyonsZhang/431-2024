@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "",
+    "text": "All classes meet in person in Room E321-323 in the Robbins Building at the CWRU School of Medicine, from 1:00 to 2:15 PM.\n\nEach class session is recorded via Zoom, and the recordings are then made available for students to view using Canvas.\nStudents attending remotely (for whatever reason) can watch the Zoom as it happens (through Canvas), but will not be able to interact with the class during the session.\nStudents are expected to attend at least 20 of the 26 classes during the semester in person."
+  },
+  {
+    "objectID": "calendar.html#when-and-where-do-classes-meet",
+    "href": "calendar.html#when-and-where-do-classes-meet",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "",
+    "text": "All classes meet in person in Room E321-323 in the Robbins Building at the CWRU School of Medicine, from 1:00 to 2:15 PM.\n\nEach class session is recorded via Zoom, and the recordings are then made available for students to view using Canvas.\nStudents attending remotely (for whatever reason) can watch the Zoom as it happens (through Canvas), but will not be able to interact with the class during the session.\nStudents are expected to attend at least 20 of the 26 classes during the semester in person."
+  },
+  {
+    "objectID": "calendar.html#details",
+    "href": "calendar.html#details",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "Details",
+    "text": "Details\n\nThe link for each class is to the README (starting point), which contains key announcements, slides and other links for that session.\nReadings are identified by:\n\nAOS = David Spiegelhalter’s The Art of Statistics\nR4DS = Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund, R for Data Science, 2nd edition\n\nNote that solutions for the exercises in R4DS 2e are available here."
+  },
+  {
+    "objectID": "calendar.html#december-2023",
+    "href": "calendar.html#december-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "December 2023",
+    "text": "December 2023\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nQuiz 2 due\nTUE  12-05\nQuiz 2 due at 3 PM.\n\n\nClass 25\nTUE  12-05\nFavorite Movies and AMA Session via Zoom.  READING By now, AOS complete book\n\n\nmin paper\nWED  12-06\nMinute Paper after Class 25 due at Noon.\n\n\nClass 26\nTHU  12-07\nLast class. Quiz 2 discussion, and Setting Up 432.\n\n\nLab Regrade?\nFRI 12-08\n(Optional) Submit Lab Regrade Request Form by noon\n\n\nPresentations\n12-11 through  12-14\nProject B Presentations to Dr. Love (Schedule)  12-11 is Last Day of TA office hours\n\n\nLab X\nTUE  12-12\n(Optional) Lab X due at Noon.\n\n\nProject B\nSUN  12-17\nFinal Project B All Materials due at 9 AM (submitted via Canvas, and Google Form)"
+  },
+  {
+    "objectID": "calendar.html#remaining-project-b-deadlines",
+    "href": "calendar.html#remaining-project-b-deadlines",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "Remaining Project B deadlines",
+    "text": "Remaining Project B deadlines\n\nProject B Presentations are scheduled for 12-11 through 12-14. The schedule is now available.\nProject B materials are due Sunday 2023-12-17 at 9 AM."
+  },
+  {
+    "objectID": "calendar.html#august-september-2023",
+    "href": "calendar.html#august-september-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "August & September 2023",
+    "text": "August & September 2023\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nClass 01\nTUE  08-29\nWelcome to 431, How The Course Works  Getting Started with R, RStudio and Quarto\n\n\nsurvey\nWED  08-30\nWelcome to 431 Survey due at Noon\n\n\nClass 02\nTHU  08-31\nPART A begins; see Course Notes.  Types of Data, Summarizing Quantitative Data\n\n\nClass 03\nTUE  09-05\nVisualizing and Managing Data with RStudio and the Tidyverse  READING By now, AOS Intro & Chapter 1, R4DS through Chapter 3  First Day of TA office hours\n\n\nmin paper\nWED  09-06\nMinute Paper after Class 03 due at Noon.\n\n\nClass 04\nTHU  09-07\nDescribing Quantitative and Categorical Data\n\n\nLab 1 due\nTUE  09-12\nLab 1 due at Noon.\n\n\nClass 05\nTUE  09-12\nVisualizing and Describing Data  READING By now, AOS through Chapter 3, R4DS through Chapter 5 and skim 11\n\n\nmin paper\nWED  09-13\nMinute Paper after Class 05 due at Noon.\n\n\nClass 06\nTHU  09-14\nVisualizations for Comparisons and Associations\n\n\nLab 2 due\nTUE  09-19\nLab 2 due at Noon.\n\n\nClass 07\nTUE  09-19\nVisualizing Quantitative Data  READING By now, AOS through Chapter 4, R4DS Chapters 6-7, 10-11\n\n\nClass 08\nTHU  09-21\nCategorical Data; Scatterplots, Linear Fits and Power Transformations  Movies Breakout 1\n\n\nLab 3 due\nTUE  09-26\nLab 3 due at Noon.\n\n\nClass 09\nTUE  09-26\nBuilding Confidence Intervals for a Mean or Difference Between Means  READING By now, AOS through Chapter 5, R4DS Chapters 1-7, 10-12\n\n\nmin paper\nWED  09-27\nMinute Paper after Class 09 due at Noon.\n\n\nClass 10\nTHU  09-28\nData Management, Wrangling and the Tidyverse with the Movies Data"
+  },
+  {
+    "objectID": "calendar.html#october-2023",
+    "href": "calendar.html#october-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "October 2023",
+    "text": "October 2023\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nProposal A\nTUE  10-03\nProject A Proposal due at Noon.\n\n\nClass 11\nTUE  10-03\nPART B begins; see Course Notes.  Regression on a Categorical Predictor, Single Imputation  READING By now, AOS through Chapter 6, R4DS Chapters 1-12, 29-30\n\n\nmin paper\nWED  10-04\nMinute Paper after Class 11 due at Noon.\n\n\nClass 12\nTHU  10-05\nComparing Means with Paired Samples\n\n\n-\nTHU  10-05\nQuiz 1 made available to you by 5 PM.\n\n\nQuiz 1 due\nTUE  10-10\nQuiz 1 due at Noon.  Quiz 1 covers material from Classes 1-12.\n\n\nClass 13\nTUE  10-10\nComparing Means with Independent Samples  READING By now, AOS through Chapter 7\n\n\nmin paper\nWED  10-11\nMinute Paper after Class 13 due at Noon.\n\n\nClass 14\nTHU  10-12\nComparing Rates and Proportions, 2x2 and Larger Tables\n\n\nLab 4 due\nTUE  10-17\nLab 4 due at Noon.\n\n\nClass 15\nTUE  10-17\nPower and Sample Size Considerations  READING By now, AOS through Chapter 8\n\n\nmin paper\nWED  10-18\nMinute Paper after Class 15 due at Noon.\n\n\nClass 16\nTHU  10-19\nP values and their problems\n\n\nNo class\nTUE  10-24\nCWRU Fall Break.  Now is a great time to work on Lab X.  No TA office hours 10-23 or 10-24\n\n\nLab 5 due\nTHU  10-26\nLab 5 due at Noon.\n\n\nClass 17\nTHU  10-26\nCatching Up: Miscellaneous Things I Haven’t Gotten To Yet  READING By now, AOS through Chapter 9\n\n\nProject A\nTUE  10-31\nProject A Portfolio due at Noon.  Project A uses material from Classes 1-12.\n\n\nClass 18\nTUE  10-31\nPART C begins; see Course Notes. One-Factor and Two-Factor ANOVA  READING By now, AOS through Chapter 10, R4DS skim Chapters 13-28"
+  },
+  {
+    "objectID": "calendar.html#project-a-deadlines",
+    "href": "calendar.html#project-a-deadlines",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "Project A deadlines",
+    "text": "Project A deadlines\n\nProject A Proposal will be due at noon on Tuesday 2023-10-03. We will provide proposal feedback as soon as possible after that deadline.\nThe final Project A Portfolio including the R data set, Quarto and HTML report, video and self-evaluation form are all due at noon on Tuesday 2023-10-31."
+  },
+  {
+    "objectID": "calendar.html#november-2023",
+    "href": "calendar.html#november-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "November 2023",
+    "text": "November 2023\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nmin paper\nWED  11-01\nMinute Paper after Class 18 due at Noon.\n\n\nClass 19\nTHU  11-02\nMultiple Regression Modeling, Part 1\n\n\nNo class\nTUE  11-07\nElection Day. (No 431 class but CWRU is open.)  Now is a great time to work on Lab X.\n\n\nLab 6 due\nTHU  11-09\nLab 6 due at Noon.\n\n\nClass 20\nTHU  11-09\nZOOM ONLY (See email for details) Multiple Regression Modeling, Part 2\n\n\nClass 21\nTUE  11-14\nChecking Regression Assumptions, Large Contingency Tables  READING By now, AOS through Chapter 11\n\n\nProject B\nTHU  11-16\nCHANGED Project B Registration Form due at 9 AM.\n\n\nClass 22\nTHU  11-16\nUsing mice to perform multiple imputation, It’s All A Linear Model\n\n\nNo class\nTUE  11-21\nThanksgiving week. (No 431 class but CWRU is open.)  No TA office hours 11-19 through 11-25\n\n\nNo class\nTHU  11-23\nCWRU Thanksgiving Break  No TA office hours 11-19 through 11-25\n\n\nLab 7\nTUE  11-28\nLab 7 due at Noon.\n\n\nClass 23\nTUE  11-28\nMultiple Regression Modeling, continued  READING By now, AOS through Chapter 12\n\n\nmin paper\nWED  11-29\nMinute Paper after Class 23 due at 2 PM.\n\n\nClass 24\nTHU  11-30\nSome Loose Ends: Power/McNemar/here/77 to NA/ChatGPT, etc.\n\n\n-\nTHU  11-30\nQuiz 2 made available to you by 5 PM.  Quiz 2 covers material from Classes 1-24."
+  },
+  {
+    "objectID": "campuswire.html",
+    "href": "campuswire.html",
+    "title": "Campuswire",
+    "section": "",
+    "text": "Sign up for Campuswire at https://campuswire.com/p/G1D4B1902. The class join code is 5758. Be sure to sign in with your full name (rather than a nickname) and an email address that you will check daily. Ideally, you would use your CWRU email, or at least the same email address you indicated that you preferred on the Welcome to 431 survey."
+  },
+  {
+    "objectID": "campuswire.html#signing-up-for-campuswire",
+    "href": "campuswire.html#signing-up-for-campuswire",
+    "title": "Campuswire",
+    "section": "",
+    "text": "Sign up for Campuswire at https://campuswire.com/p/G1D4B1902. The class join code is 5758. Be sure to sign in with your full name (rather than a nickname) and an email address that you will check daily. Ideally, you would use your CWRU email, or at least the same email address you indicated that you preferred on the Welcome to 431 survey."
+  },
+  {
+    "objectID": "campuswire.html#accessing-campuswire-once-youve-signed-up",
+    "href": "campuswire.html#accessing-campuswire-once-youve-signed-up",
+    "title": "Campuswire",
+    "section": "Accessing Campuswire once you’ve signed up",
+    "text": "Accessing Campuswire once you’ve signed up\nOnce you’re signed up, you can get to Campuswire by clicking on Sign In at https://campuswire.com/."
+  },
+  {
+    "objectID": "campuswire.html#how-well-use-campuswire",
+    "href": "campuswire.html#how-well-use-campuswire",
+    "title": "Campuswire",
+    "section": "How we’ll use Campuswire",
+    "text": "How we’ll use Campuswire\nWe will use Campuswire to facilitate questions and answers. We'll be conducting as much of our class-related discussion there as possible, instead of via email. It’s open 24 hours a day, 7 days a week, and we’ll start to use it after our first class session.\n\nIf you're successfully enrolled in the class, you should be able to sign up immediately, and gain access to Professor Love’s 431 course.\nThe quicker you begin asking questions on Campuswire (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates, teaching assistants and Professor Love.\nWe encourage you to ask questions when you're struggling to understand anything related to the class, and you can even do so anonymously.\nYou'll also be able to help your colleagues by answering their questions (and you'll get some class participation credit for doing so.)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "431 Contact Us",
+    "section": "",
+    "text": "If you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#before-class-begins-on-2023-08-29",
+    "href": "contact.html#before-class-begins-on-2023-08-29",
+    "title": "431 Contact Us",
+    "section": "",
+    "text": "If you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#once-the-class-begins",
+    "href": "contact.html#once-the-class-begins",
+    "title": "431 Contact Us",
+    "section": "Once The Class Begins",
+    "text": "Once The Class Begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:\n\nUse our Campuswire discussion board to ask (and answer) questions about the course. This is available 24 hours a day, 7 days a week. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Campuswise. Sign up for Campuswire at the link provided here.\nAttend TA office hours to get one-on-one help or share a computer problem.\n\nTA office hours are held via Zoom, and will begin on Tuesday 2023-09-05 and will continue through Monday 2023-12-11. They will be held at the following times.\n\n\n\n\n\n\n\n\n\n\n\n\nMON\nTUE\nWED\nTHU\nFRI\nSAT\nSUN\n\n\n\n\n11:40 am  to  12:40 pm\n5:30 pm  to  6:30 pm\n11:40 am  to  12:40 pm\n7:00 pm  to  8:30 pm\n12:40 pm  to  2:10 pm\n10:30 am  to  12 noon\n7:00 pm  to  8:30 pm\n\n\n5:00 pm  to  6:30 pm\n-\n7:30 pm  to  8:30 pm\n-\n-\n7:00 pm  to  8:30 pm\n9:00 pm  to  10:30 pm\n\n\n7:00 pm  to  8:30 pm\n-\n-\n-\n-\n-\n-\n\n\n\nOur Shared Google Drive (431 Fall 2023 Dr Love and Students) holds Zoom links for each of these sessions in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\nProfessor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.\nOffice hours are canceled on 2023-10-23 and 2023-10-24 (Fall Break) and from 2023-11-19 through 2023-11-25 (Thanksgiving)\nMore information on each of the TAs this semester is found in this section of our Syllabus.\n\n\nEmail Professor Love at Thomas dot Love at case dot edu with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Please review the Syllabus for more details on our assignments (deliverables) this semester."
+  },
+  {
+    "objectID": "assignments.html#welcome-to-431-survey",
+    "href": "assignments.html#welcome-to-431-survey",
+    "title": "Assignments",
+    "section": "Welcome to 431 Survey",
+    "text": "Welcome to 431 Survey\nPlease fill out the Welcome to 431 Survey to help us get to know you a little better.\n\nNote that you must log into Google via your CWRU account in order to access the survey.\nThe survey should take 15-20 minutes to complete, and we encourage you to complete it as soon as you can, ideally before our first class.\nThanks to those of you who’ve already completed this task."
+  },
+  {
+    "objectID": "assignments.html#minute-papers",
+    "href": "assignments.html#minute-papers",
+    "title": "Assignments",
+    "section": "Minute Papers",
+    "text": "Minute Papers\nMinute Paper materials appear at the 431 Minute Paper page.\n\nDeadlines for all ten Minute Papers are provided in the Course Calendar. All minute papers are due on Wednesdays at noon."
+  },
+  {
+    "objectID": "assignments.html#labs",
+    "href": "assignments.html#labs",
+    "title": "Assignments",
+    "section": "Labs",
+    "text": "Labs\nInstructions for the seven main Lab assignments and a link to the Lab X assignment appear at the 431 Labs page.\n\nDeadlines for all Labs are provided in the Course Calendar\nThe Lab Regrade Request Form will open after Lab 1’s grades are posted. This is the place to submit any regrading requests on Labs throughout the semester. See the Labs page and this section of the Grading Chapter in the Syllabus for details on this policy.\nLab X has its own little website. It’s a bonus lab, which we hope you will all do."
+  },
+  {
+    "objectID": "assignments.html#quizzes",
+    "href": "assignments.html#quizzes",
+    "title": "Assignments",
+    "section": "Quizzes",
+    "text": "Quizzes\nQuiz instructions will appear at the 431 Quizzes Page.\nA sample of five questions from an old Quiz 1, with answers is available there for the curious.\nDeadlines for each of the two Quizzes are in the Course Calendar"
+  },
+  {
+    "objectID": "assignments.html#project-a",
+    "href": "assignments.html#project-a",
+    "title": "Assignments",
+    "section": "Project A",
+    "text": "Project A\nThe Project A website will provide complete instructions for Project A.\nProject A is the first of two real data science projects you’ll be doing this semester. For Project A, Professor Love has provided a lot of information but also much less flexibility than you’ll have in Project B. In particular, you’ll each be working with part of the same data set (the County Health Rankings 2023 data.) The three key analytic tasks you’ll complete are:\n\nVisualizing and modeling the relationship between a quantitative outcome and a quantitative predictor.\nVisualizing and modeling the relationship between a quantitative outcome and a categorical predictor (with 2-5 levels).\nVisualizing and modeling the relationship between a quantitative outcome and a quantitative predictor, after adjustment for the state in which the county is located\n\nYou can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.\nThere are two sets of deliverables for Project A, and the deadlines for each are in the Course Calendar:\n\nA Project A Proposal (due at the start of October) which requires you to answer a few specific questions after creating a clean data set (a “tibble” containing specific “counties” and variables you will choose from available options.) You can (and will need to) do this work in September.\nA Project A Portfolio (due at the end of October). You’ll build Quarto and HTML files in October, after your Proposal has been accepted. As part of your Portfolio, you’ll also provide some other pieces, which are described in the Project A instructions."
+  },
+  {
+    "objectID": "assignments.html#project-b",
+    "href": "assignments.html#project-b",
+    "title": "Assignments",
+    "section": "Project B",
+    "text": "Project B\nThe Project B website, with all instructions, is now available. Project B deadlines are in the Calendar. Project B involves the completion of four tasks, which you’ll start working on in early November:\n\nYou will complete a Registration Form to obtain my approval for your plan, let me know if you’re working with a partner, and schedule your oral presentation.\nYou (and your partner, if applicable) will present your project sometime between 12-11 and 12-15 to Dr. Love in his office.\nYou will build Quarto and HTML reports describing your work.\nFinally, you will complete a Self-Evaluation form, as in Project A."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University.\n\n\nMaterials you will find here include:\n\nthe course syllabus\nthe course calendar, which will provide the final word on all deadlines, and will also link to all materials used in each class session\nDr. Love’s course notes, which are a major source of course examples\ndetailed information on all course assignments, including labs, minute papers, projects and quizzes, with all deadlines found in the Calendar.\ninformation on software, including installation instructions for R, RStudio, the key R packages and data sets we’ll use\ninformation on how to contact us.\n\nAdjustments to these materials will occur over the course of the semester. Professor Love will highlight any major changes in class.\n\n\n\nYour first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS). Note that Section 100 of PQHS 431, CRSP 431 and MPHP 431 are identical.\nReview this main course website, being sure to visit the Course Calendar.\nSkim through the Course Syllabus.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for around $20.\nComplete the Welcome to 431 survey, as described below.\nGet started installing the software you’ll need for the course.\nSign up for the (free) Campuswire discussion forum.\n\n\n\nPlease fill out the Welcome to 431 Survey to help us get to know you a little better.\n\nYou must log into Google via your CWRU account to access the survey.\nThe survey should take 15-20 minutes to complete, and we encourage you to do so now.\nThanks to those of you who’ve already completed the survey.\n\n\n\n\n\nClass will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2023-08-29.\n\nThe Course Calendar is now available.\nThe course will be held in person, rather than online, but we will make recordings available whenever possible for those who need to miss a session. Do not come to class if you are sick.\n\n\n\n\nLearning R can be difficult at first - it’s like learning any new language. Hadley Wickham, the chief scientist at Posit (makers of RStudio) and the author of some amazing R packages you’ll be using like ggplot2 made this wise observation:\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.\n\nIf you’re finding yourself struggling or not understanding, take a break, talk to classmates, ask us for help, etc. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it, and instead ASK FOR HELP. I promise you can do this. (Thanks, Andrew Heiss)\n\n\n\nVisit the Contact Us page on this site to learn how to get help in the course.\nThank you."
+  },
+  {
+    "objectID": "index.html#everything-will-be-linked-here",
+    "href": "index.html#everything-will-be-linked-here",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Materials you will find here include:\n\nthe course syllabus\nthe course calendar, which will provide the final word on all deadlines, and will also link to all materials used in each class session\nDr. Love’s course notes, which are a major source of course examples\ndetailed information on all course assignments, including labs, minute papers, projects and quizzes, with all deadlines found in the Calendar.\ninformation on software, including installation instructions for R, RStudio, the key R packages and data sets we’ll use\ninformation on how to contact us.\n\nAdjustments to these materials will occur over the course of the semester. Professor Love will highlight any major changes in class."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Your first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS). Note that Section 100 of PQHS 431, CRSP 431 and MPHP 431 are identical.\nReview this main course website, being sure to visit the Course Calendar.\nSkim through the Course Syllabus.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for around $20.\nComplete the Welcome to 431 survey, as described below.\nGet started installing the software you’ll need for the course.\nSign up for the (free) Campuswire discussion forum.\n\n\n\nPlease fill out the Welcome to 431 Survey to help us get to know you a little better.\n\nYou must log into Google via your CWRU account to access the survey.\nThe survey should take 15-20 minutes to complete, and we encourage you to do so now.\nThanks to those of you who’ve already completed the survey."
+  },
+  {
+    "objectID": "index.html#class-starts-2023-08-29-at-1-pm",
+    "href": "index.html#class-starts-2023-08-29-at-1-pm",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2023-08-29.\n\nThe Course Calendar is now available.\nThe course will be held in person, rather than online, but we will make recordings available whenever possible for those who need to miss a session. Do not come to class if you are sick."
+  },
+  {
+    "objectID": "index.html#pep-talk",
+    "href": "index.html#pep-talk",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Learning R can be difficult at first - it’s like learning any new language. Hadley Wickham, the chief scientist at Posit (makers of RStudio) and the author of some amazing R packages you’ll be using like ggplot2 made this wise observation:\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.\n\nIf you’re finding yourself struggling or not understanding, take a break, talk to classmates, ask us for help, etc. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it, and instead ASK FOR HELP. I promise you can do this. (Thanks, Andrew Heiss)"
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Visit the Contact Us page on this site to learn how to get help in the course.\nThank you."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software for 431",
+    "section": "",
+    "text": "The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.\nYou will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.\nMore details on hardware requirements and some related issues can be found in the Required Software section of the Course Syllabus."
+  },
+  {
+    "objectID": "software.html#installing-r-and-r-studio",
+    "href": "software.html#installing-r-and-r-studio",
+    "title": "Software for 431",
+    "section": "Installing R and R Studio",
+    "text": "Installing R and R Studio\nThe steps you need to complete are:\n\nDownload and install the latest version of R (version 4.3.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - the free version 2023.06.1+524 or later) by visiting https://posit.co/download/rstudio-desktop/."
+  },
+  {
+    "objectID": "software.html#installing-r-packages-and-datacode-for-431",
+    "href": "software.html#installing-r-packages-and-datacode-for-431",
+    "title": "Software for 431",
+    "section": "Installing R Packages and Data/Code for 431",
+    "text": "Installing R Packages and Data/Code for 431\nAfter you’ve completed steps 1 and 2 above, move on to these tasks:\n\nInstall some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.\n\nVisit https://github.com/THOMASELOVE/431-packages for details and the list of packages we’ll be using in 431.\n\nDownload data and code (functions) we’ve developed specifically for 431 at https://github.com/THOMASELOVE/431-data.\n\nFollow the instructions you’ll find there."
+  },
+  {
+    "objectID": "software.html#need-installation-help",
+    "href": "software.html#need-installation-help",
+    "title": "Software for 431",
+    "section": "Need Installation Help?",
+    "text": "Need Installation Help?\nIf you need more help, you might look at this terrific resource for Installing R and RStudio from Jenny Bryan and the STAT 545 project. These are the people responsible for the great Happy Git with R project, which will also be worth your time when we are using Git and GitHub.\n\nIf you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.\nOnce the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!"
+  },
+  {
+    "objectID": "software.html#updating-your-r-packages",
+    "href": "software.html#updating-your-r-packages",
+    "title": "Software for 431",
+    "section": "Updating Your R Packages",
+    "text": "Updating Your R Packages\nEvery once in a while, it’s a good idea to update your R packages. To do so,\n\nGo to the Packages tab on the right side of your RStudio screen, and click on Update.\nThis will bring up a dialog box. I usually click Select All, then click Install Updates.\n\n\nA popup box may appear, asking “Do you want to install from sources the packages which need compilation?” to which I usually answer No. A Yes response leads to a slower installation, but can solve problems if you still have them after updating.\nThis may take a few minutes. As long as you’re seeing activity in the Console window, things are progressing.\nEventually, you’ll get a message that “The downloaded source packages are in …” with a directory name. That’s the sign that the updating is done.\nUpdating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.\n\n\nFinally, choose File … Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work."
+  }
+]
